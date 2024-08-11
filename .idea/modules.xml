@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myrestutil/MyRestUtil.iml" filepath="$PROJECT_DIR$/myrestutil/MyRestUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myrestserver/myrestserver.iml" filepath="$PROJECT_DIR$/myrestserver/myrestserver.iml" />
+    </modules>
+  </component>
+</project>
